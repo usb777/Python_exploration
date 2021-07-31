@@ -1,5 +1,5 @@
 class Dog:
-
+  
     def __init__(self, name, age):  
         self.name = name
         self.age = age
@@ -14,7 +14,6 @@ class Dog:
 
 
 
-"""dog = new Dog() """      
 ozzy = Dog("Ozzy", 2)
 skippy = Dog("Skippy", 12)
 filou = Dog("Filou", 8)
