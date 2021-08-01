@@ -29,3 +29,11 @@ while k < 10:
   
     print('Current number is:',k)   
     k += 1 
+
+
+print('############### for pass #######################') 
+values = {'P', 'y', 't', 'h','o','n'}  
+for val in values:  
+     pass    
+     print('Current number is:',val)  
+    
