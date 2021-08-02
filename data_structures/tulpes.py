@@ -6,7 +6,6 @@ print(type(T1))
 print(type(T2))  
 print(type(T3)) 
 
-
 for t in T1:
     print (t) 
 

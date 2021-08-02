@@ -26,7 +26,7 @@ printSet(Days)
 
 Days.discard("Never day") # No error if element doesnt exist
 Days.discard("Never day")
-Days.remove("Never day")
+Days.remove("Never day")   # generate error
 print(Days)
 
 

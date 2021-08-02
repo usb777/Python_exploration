@@ -1,7 +1,6 @@
 L1 = ["John", 102, "USA"]    
 L2 = [1, 2, 3, 4, 5, 6]   
 
-
 def printList(listData):
     for lData in listData:
      print (lData) 
