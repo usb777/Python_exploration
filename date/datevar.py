@@ -13,6 +13,8 @@ print("month = ", x.month)
 print("day = ", x.day)
 print("type year = ", type(x.year))
 
+
+
 day =""
 
 if   len(str(x.month)) == 1: monthNumber = '0'+str(x.month)
@@ -40,7 +42,7 @@ else : print("don't contain")
 
 
 
-def _createDateStringYYYYmmdd(x = datetime.datetime.now()):
+def _createCurrentDateStringYYYYmmdd(x = datetime.datetime.now()):
     if   len(str(x.month)) == 1: monthNumber = '0'+str(x.month)
     else: monthNumber = str(x.month)
     #print("month Number = ", monthNumber)
@@ -67,6 +69,9 @@ print(str(1)+'f')
 
 print("lengt = ", len("Abba"))
 
+x = datetime.datetime.now()
 
+print(" YYYYmmdd = ",_createCurrentDateStringYYYYmmdd(x))
 
-print(" YYYYmmdd = ",_createDateStringYYYYmmdd(x = datetime.datetime.now()))
+z = x -  timedelta(days = 1)  # previous day
+print("previous day YYYYmmdd = ",_createCurrentDateStringYYYYmmdd(z))
