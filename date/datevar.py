@@ -41,7 +41,7 @@ if dateString in fileName: print("contain data")
 else : print("don't contain")
 
 
-
+######################################################################
 def _createCurrentDateStringYYYYmmdd(x = datetime.datetime.now()):
     if   len(str(x.month)) == 1: monthNumber = '0'+str(x.month)
     else: monthNumber = str(x.month)
@@ -52,7 +52,7 @@ def _createCurrentDateStringYYYYmmdd(x = datetime.datetime.now()):
     #print("day Number = ", dayNumber)
     return str(x.year)+monthNumber+dayNumber
       
-
+#####################################################################
 
 
 
