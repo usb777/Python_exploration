@@ -80,3 +80,9 @@ print("previous day YYYYmmdd = ",_createCurrentDateStringYYYYmmdd(z))
 
 if "ss" in "sadsasd345" : print("good")
 else:  print("not good")
+
+
+#existence
+'''
+https://stackoverflow.com/questions/39407725/how-to-check-if-the-parameter-exist-in-python
+'''
