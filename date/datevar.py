@@ -75,3 +75,8 @@ print(" YYYYmmdd = ",_createCurrentDateStringYYYYmmdd(x))
 
 z = x -  timedelta(days = 1)  # previous day
 print("previous day YYYYmmdd = ",_createCurrentDateStringYYYYmmdd(z))
+
+
+
+if "ss" in "sadsasd345" : print("good")
+else:  print("not good")
