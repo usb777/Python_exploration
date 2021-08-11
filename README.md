@@ -1,2 +1,2 @@
 # Python_exploration
-Python scripts
+Python scripts, version 2.7
