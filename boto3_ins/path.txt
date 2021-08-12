@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/42210058/unable-to-import-boto3-in-python-2-7
+
+https://aws.amazon.com/blogs/developer/announcing-end-of-support-for-python-2-7-in-aws-sdk-for-python-and-aws-cli-v1/
+
+
+Documentation boto3:
+https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
