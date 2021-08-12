@@ -5,3 +5,9 @@ https://aws.amazon.com/blogs/developer/announcing-end-of-support-for-python-2-7-
 
 Documentation boto3:
 https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
+
+
+
+Version python 2.7:
+
+https://aws.amazon.com/blogs/developer/announcing-end-of-support-for-python-2-7-in-aws-sdk-for-python-and-aws-cli-v1/
