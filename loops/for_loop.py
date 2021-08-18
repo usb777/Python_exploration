@@ -4,6 +4,9 @@ for s in range(1,5):
             continue
     else:
             print (s)
+
+
+# loop with range
         
 
 
