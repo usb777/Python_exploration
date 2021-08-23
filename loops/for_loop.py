@@ -4,6 +4,14 @@ for s in range(1,5):
             continue
     else:
             print (s)
+
+
+
+print("=========Loop step 14==============")
+for z in range(1,100,14):
+     print(z)
+
+# loop with range
         
 
 
