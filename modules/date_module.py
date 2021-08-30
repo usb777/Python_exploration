@@ -7,5 +7,6 @@ def display(str = "hello", msg="forever young"):
 
 display()
 display("Dzmitry")
+display("Dzmitry", "never believe")
 
 
