@@ -9,4 +9,6 @@ display()
 display("Dzmitry")
 display("Dzmitry", "never believe")
 
+print("lets start to work", "together")
+
 
