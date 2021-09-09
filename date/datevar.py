@@ -79,6 +79,7 @@ print("previous day YYYYmmdd = ",_createCurrentDateStringYYYYmmdd(z))
 
 
 if "ss" in "sadsasd345" : print("good")
+elif "345" in "sadsasd345": print("numbers")
 else:  print("not good")
 
 
