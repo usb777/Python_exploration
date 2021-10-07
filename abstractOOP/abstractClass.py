@@ -1,6 +1,6 @@
-from abc import ABC  
+from abc import ABCMeta
   
-class Polygon(ABC):   
+class Polygon(ABCMeta):   
   
    # abstract method   
    def sides(self):   
