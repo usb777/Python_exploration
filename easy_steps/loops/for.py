@@ -1,4 +1,4 @@
-﻿chars = [ 'A' , 'B', 'C' ]
+﻿chars = [ 'A' , 'B', 'C', 'D', 'E' ]
 fruit = ( 'Apple' , 'Banana' , 'Cherry' )
 dict = { 'name' : 'Mike' , 'ref' : 'Python' , 'sys' : 'Win' }
 
