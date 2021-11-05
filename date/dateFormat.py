@@ -10,10 +10,8 @@ print (dt.strftime (" %I: %M: %S %p ")) # represents the time in HH: MM: SS AM/ 
 print (dt.strftime ("%a, %b %d, %Y ")) # represents the day, month date and year 
 
 strDate = dt.strftime ("%Y-%m-%d")
-
 print ("Today date is",strDate )
 
-print ("hello world")
 
 
 

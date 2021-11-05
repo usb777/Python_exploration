@@ -17,6 +17,7 @@ for item in zip( chars , fruit ) :
 print( '\nPaired:' )
 for key , value in dict.items() :
 	print( key , '=' , value )
+	
 
 
 
