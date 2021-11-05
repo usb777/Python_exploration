@@ -5,7 +5,7 @@ fout = open("out.txt", "wt")
 #for each line in the input file
 for line in fin:
 	#read replace the string and write to output file
-	fout.write(line.replace('pyton', 'python'))
+	fout.write(line.replace("a", "***\n\r"))
 #close input and output files
 fin.close()
 fout.close()

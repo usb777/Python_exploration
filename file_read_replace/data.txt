@@ -1,2 +1,33 @@
-python
-python
+springboot_demos
+Public
+SpringBoot projects, demos, leurning
+
+ Java  1
+
+advicenycapi
+Public
+SpringBoot Api for AdviceNYC.com
+
+ Java  1
+
+advicenyc-ReactRedux
+Public
+adviceNYC through React
+
+ TypeScript  1
+
+StoreProject
+Public
+Store SpringBoot Test Project
+
+ Java  1
+
+JAVA
+Public
+dslab.us repositorium
+
+ Java
+
+OLD_Projects---PHP-C_plus_BUILDER-DELPHI-JAVA
+Public
+ PHP
