@@ -10,3 +10,5 @@ Scripts and dev shell
 #####################Devops###################
 file read
 read replace
+
+New daily code
