@@ -1,5 +1,5 @@
 # Python_exploration
-Python scripts, version 2.7
+Python scripts, version 2.7.15
 CMD parameters
 Loops
 Methods
@@ -10,5 +10,5 @@ Scripts and dev shell
 #####################Devops###################
 file read
 read replace
-
 New daily code
+
