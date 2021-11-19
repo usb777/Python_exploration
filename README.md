@@ -1,8 +1,8 @@
-# Python_exploration \n\r
+# Python_exploration
 Python scripts, version 2.7.15
 CMD parameters
 Loops
-Methods \n\r
+Methods
 OOP
 Classes
 Scripts and dev shell
