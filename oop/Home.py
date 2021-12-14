@@ -6,9 +6,9 @@ class Home:
         self.race= race
         self.job = job
 
-    def getProps():
-        print("age"+self.age)
-        print("race"+race)
+    def getProps(self):
+        print("age"+str(self.age))
+        print("race"+self.race)
 
 
 
