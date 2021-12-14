@@ -6,3 +6,4 @@ print (home.first_name)
 print (home.last_name)
 
 print (vars(home))
+home.getProps()

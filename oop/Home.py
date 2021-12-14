@@ -6,6 +6,10 @@ class Home:
         self.race= race
         self.job = job
 
+    def getProps():
+        print("age"+self.age)
+        print("race"+race)
+
 
 
       
