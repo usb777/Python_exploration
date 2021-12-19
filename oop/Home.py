@@ -10,6 +10,10 @@ class Home:
         print("age"+str(self.age))
         print("race"+self.race)
 
+    def setAge(self,age):
+        self.age = age
 
+    def getAge(self):
+        return self.age
 
       
