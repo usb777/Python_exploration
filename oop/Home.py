@@ -16,4 +16,16 @@ class Home:
     def getAge(self):
         return self.age
 
+    
+    def setJob(self,job):
+        self.job = job
+
+    def getJob(self):
+        return self.job
+    
+
+
+
+    
+
       
