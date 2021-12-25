@@ -12,3 +12,7 @@ home.setAge(100)
 print ("age = "+str(home.age))
 print ("age from Get = "+str(home.getAge()))
 
+home.setJob("Developer")
+print ("job = "+str(home.job))
+print ("job from Get = "+str(home.getJob()))
+
