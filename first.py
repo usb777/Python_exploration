@@ -5,4 +5,5 @@ print(a*b)
 print(a/b)
 print(a%b)
 
-#
+
+print("Hello %s world")
