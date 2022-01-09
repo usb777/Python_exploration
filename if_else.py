@@ -13,3 +13,13 @@ elif b > 0:
     print('b is positive.')
 elif b < 0:
     print('b is negative.')
+
+
+def chooser(a=5):
+  if a==5:  print (str(a)+" equal 5")
+  elif (a>5): print (str(a)+" more then 5")
+  elif (a<5): print (str(a)+" less then 5")
+
+
+  
+chooser(10)
