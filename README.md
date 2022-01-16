@@ -14,4 +14,5 @@ New daily code
 Previos-current date file
 Next line
 Python framework
+Django
 
